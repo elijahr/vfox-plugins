@@ -2,8 +2,8 @@
   "name": "nim",
   "manifestUrl": "https://github.com/elijahr/vfox-nim/releases/download/manifest/manifest.json",
   "test": {
-    "version": "2.2.0",
+    "version": "2.2.12",
     "check": "nim -v",
-    "resultRegx": "Nim Compiler Version 2\\.2\\.0.*"
+    "resultRegx": "Nim Compiler Version 2\\.2\\.12.*"
   }
 }
